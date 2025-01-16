@@ -1,0 +1,16 @@
+{
+  "name": "decode-k8s-secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "split2": "^4.2.0",
+    "through2": "^4.0.2"
+  }
+}
